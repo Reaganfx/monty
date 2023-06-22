@@ -4,6 +4,8 @@
  * @nmemb: number of elements
  * @size: type of elements
  * Return: nothing
+ * Reaganfx
+ * Bettyje
  */
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
